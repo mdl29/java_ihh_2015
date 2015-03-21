@@ -1,0 +1,7 @@
+1-> Téléchargez le dossier correspondant (avec le sous-dossier src normalement)
+2-> Renommez par Nom_que_je_veux
+3-> Copiez le à l'intérieur le dossier workspace actuel d'Eclipse
+4-> Ouvrez Eclipse (en NE CHANGEANT PAS le chemin du workspace)
+5-> Créez un nouveau projet : New > Project
+6-> Nommez le de façon identique avec Nom_que_je_veux (si cela se passe bien, Eclipse grise le reste)
+7-> Créez le et c'est gagné ! :)
