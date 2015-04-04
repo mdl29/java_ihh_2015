@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Gestion Formes géomatriques&apos; to &apos;Gestion_Formes_Geometriques&apos;&#x0A;- Original element: &apos;Gestion Formes géomatriques&apos;&#x0A;- Renamed element: &apos;Gestion Formes géomatriques&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Gestion Formes géomatriques&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Gestion Formes géomatriques" name="Gestion_Formes_Geometriques" references="true" stamp="1427373573612" version="1.0"/>
+</session>
